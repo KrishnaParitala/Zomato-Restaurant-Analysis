@@ -20,3 +20,11 @@ Visualizations & KPI Dashboards – Using Power BI and Tableau, dashboards are c
 Business Insights & Decision-Making – The analysis helps identify popular cuisines, restaurant growth trends, pricing impact, and service preferences, assisting businesses in expansion strategies and operational improvements.
 
 ![image](https://github.com/user-attachments/assets/7f29b99e-47db-4f5e-8587-03508e3948c2)
+
+![image](https://github.com/user-attachments/assets/98c548fd-28e2-4b61-96b2-96d319025b17)
+
+![image](https://github.com/user-attachments/assets/cb849601-0cbe-4d52-9e22-c290623659f1)
+
+![image](https://github.com/user-attachments/assets/1759af89-f97a-4d94-9f65-78b16d45cb50)
+
+![image](https://github.com/user-attachments/assets/e9ebece6-b694-4f58-9b9f-3b963014d394)
